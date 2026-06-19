@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.joblib
+*.log
+data/salad_full.csv
+data/salad_train.csv
+data/salad_test.csv
+data/salad_val.csv
+data/operational/
+_sim_annotator_*.json
+_truthkey_*.json
+faithfulness_results.json
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
